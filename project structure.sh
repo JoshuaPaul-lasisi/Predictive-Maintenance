@@ -28,6 +28,8 @@ PREDICTIVE-MAINTENANCE/
 │   ├── data_loading.ipynb
 │   ├── data_preprocessing.ipynb
 │   └── eda.ipynb
+├── reports/
+│   ├── images/
 ├── src/
 │   ├── dashboard.py
 │   └── data_loading.py
